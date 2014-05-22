@@ -1,0 +1,3 @@
+#Ignore Intellij Idea setting files
+/.idea
+*.iml
