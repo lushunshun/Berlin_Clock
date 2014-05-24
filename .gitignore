@@ -1,3 +1,4 @@
 #Ignore Intellij Idea setting files
-/.idea
+.idea
 *.iml
+target
