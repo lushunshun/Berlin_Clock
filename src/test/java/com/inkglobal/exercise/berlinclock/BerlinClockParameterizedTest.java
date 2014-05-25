@@ -16,7 +16,7 @@ import static org.mockito.Mockito.when;
 /**
  * This test loads the BerlinClock class with a batch of test times and checks if it produces the correct output or not.
  *
- * @author Yu Lu (https://github.com/lushunshun)
+ * @author Yu Lu (http://github.com/lushunshun/Berlin_Clock)
  */
 @RunWith(Parameterized.class)
 public class BerlinClockParameterizedTest {

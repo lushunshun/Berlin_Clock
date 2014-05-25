@@ -10,7 +10,7 @@ import java.util.Arrays;
  *     It assumes the time feed also supplies valid time values.
  * </p>
  *
- * @author  Yu Lu (https://github.com/lushunshun)
+ * @author  Yu Lu (http://github.com/lushunshun/Berlin_Clock)
  */
 public class BerlinClock {
 

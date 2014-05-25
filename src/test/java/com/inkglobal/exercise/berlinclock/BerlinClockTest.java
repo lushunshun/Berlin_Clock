@@ -12,7 +12,7 @@ import static org.mockito.Mockito.when;
  * This test suite check if the berlin clock could produce the correct representations
  * of hours, minutes and seconds individually.
  *
- * @author Yu Lu (https://github.com/lushunshun)
+ * @author Yu Lu (http://github.com/lushunshun/Berlin_Clock)
  */
 public class BerlinClockTest {
     private BerlinClock clockUnderTest;
