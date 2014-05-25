@@ -10,6 +10,4 @@ public interface TimeFeed {
     public int minute();
 
     public int hour();
-
-    public String now();
 }
